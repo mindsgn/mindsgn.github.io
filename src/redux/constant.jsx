@@ -1,0 +1,15 @@
+export const MOBILE_S = '320px';
+export const MOBILE_M = '375px';
+export const MOBILE_L = '425px';
+export const TABLET = '768px';
+export const LAPTOP_S = '1024px';
+export const LAPTOP_L = '1440px';
+export const DESKTOP = '2560px';
+export const NEXT = 'NEXT';
+export const POST = 'POST';
+export const IS_AUTH = 'IS_AUTH';
+export const BOOK = 'BOOK';
+export const UPDATE_NAME = 'UPDATE_NAME';
+export const UPDATE_ADDRESS = 'UPDATE_ADDRESS';
+export const UPDATE_TIME = 'UPDATE_TIME';
+export const UPDATE_DATE = 'UPDATE_DATE';
